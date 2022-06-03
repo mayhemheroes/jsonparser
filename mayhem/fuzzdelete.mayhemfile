@@ -1,0 +1,4 @@
+project: PROJECT
+target: fuzzdelete
+cmds:
+- cmd: /out/fuzzdelete
