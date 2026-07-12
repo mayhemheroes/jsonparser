@@ -1,0 +1,8 @@
+project: jsonparser
+target: fuzzgetboolean
+cmds:
+  - cmd: /mayhem/fuzzgetboolean
+    libfuzzer: true
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzzgetboolean/testsuite

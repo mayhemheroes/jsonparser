@@ -1,0 +1,1 @@
+{"name":"Name","order":"Order","sum":100,"len":12,"isPaid":true,"nested":{"a":"test","b":2,"nested3":{"a":"test3","b":4},"c":"unknown"},"nested2":{"a":"test2","b":3},"arr":[{"a":"zxc","b":1},{"a":"123","b":2}],"arrInt":[1,2,3,4,5,6],"intPtr":10,"a\n":{"b\n":1}}
